@@ -11,6 +11,7 @@ Some of them are
 
 **Most Emojis Used in Searches**
 
-![Youtube EDA](https://user-images.githubusercontent.com/57325166/95661586-23264f80-0b4e-11eb-88af-2cf6d9914470.gif)
+![Youtube EDA (1)](https://user-images.githubusercontent.com/57325166/95661734-3259cd00-0b4f-11eb-8530-6c4012bd569e.gif)
+
 
 
